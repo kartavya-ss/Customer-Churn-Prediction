@@ -1,0 +1,16 @@
+tfenv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.h5
+final_model/
+best_model.h5
+*.pth
+*.pt
+*.ckpt
+*.zip
+.env
+.vscode/
+.idea/
+.DS_Store
