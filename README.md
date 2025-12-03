@@ -43,7 +43,7 @@ Batch size: 50
 
  **Model Performance**
 
-Test Accuracy: Replace with your value → XX.XX%
+Test Accuracy: Replace with your value → 79.75%
 (Computed using accuracy_score on test predictions.)
 
  **Visualizations Included**
